@@ -4,3 +4,4 @@ applications:
   host: spring-music-app-sarnendu1234
   domain: cfapps.io
   path: C:\Users\My Pc\Downloads\spring-music\spring-music\pre-built\spring-music.war
+  instances: 1
