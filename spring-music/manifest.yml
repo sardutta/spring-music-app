@@ -1,0 +1,7 @@
+applications:
+- name: spring-music-app
+  memory: 1024m
+  host: spring-music-app-sarnendu1234
+  domain: cfapps.io
+  path: C:\Users\My Pc\Downloads\spring-music\spring-music\pre-built\spring-music.war
+  
